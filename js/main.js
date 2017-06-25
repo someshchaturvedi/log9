@@ -291,3 +291,133 @@
       });
 
   });
+
+
+  function tag11Clicked() {
+      document.getElementById('tag11').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%; color:white; background: #E95A44'
+      document.getElementById('tag12').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50%'
+      document.getElementById("tagdesc").innerHTML = "<b>Graphene has the potential to tap into the future of optoelectronics by making the concept of thin transparent LED displays feasible.This technology has numerous applications from being an integrationin daily consumer lives to being an industrial asset for various sectors.</b>"
+  }
+
+  function tag12Clicked() {
+      document.getElementById('tag11').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%'
+      document.getElementById('tag12').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50% ;color:white; background: #E95A44'
+      document.getElementById("tagdesc").innerHTML = "<b>i) Turning car window shields into display.<br/> ii) Window Shopping becoming real for customers.<br/> iii) Enhancement in current VR technology.</b>"
+
+  }
+
+  function tag11Hover() {
+      document.getElementById('tag11').style.cursor = 'pointer'
+  }
+
+  function tag12Hover() {
+      document.getElementById('tag12').style.cursor = 'pointer'
+  }
+
+  function tag21Clicked() {
+      document.getElementById('tag21').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%; color:white; background: #E95A44'
+      document.getElementById('tag22').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50%'
+      document.getElementById("tagdesc2").innerHTML = "<b>Water is one of the basic amenities for human kind. It is also one of the major causes for illness and widespread diseases.RO and UV technologies have revolutionized the market in terms of efficiency of filtration but have their own drawbacks ranging from large wastage of water to high operating and maintenance costs.We are working on a technology which could remove toxins without the use of electricity, with low maintenance costs and also work in a way such that it is easily customizable based on geography and local conditions of water.</b>";
+  }
+
+  function tag22Clicked() {
+      document.getElementById('tag21').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%'
+      document.getElementById('tag22').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50% ;color:white; background: #E95A44'
+      document.getElementById("tagdesc2").innerHTML = "<b> i) The filtration system will be suitable for rural deployment with lower investment as well as running costs.<br/> ii) Geography specific flexibility in terms of toxins being removed.</b>";
+  }
+
+  function tag21Hover() {
+      document.getElementById('tag21').style.cursor = 'pointer'
+  }
+
+  function tag22Hover() {
+      document.getElementById('tag22').style.cursor = 'pointer'
+  }
+
+  function tag31Clicked() {
+      document.getElementById('tag31').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%; color:white; background: #E95A44'
+      document.getElementById('tag32').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50%'
+      document.getElementById("tagdesc3").innerHTML = "<b>Graphene is lead-acid batteries has always been seen as a potential material to increase the efficiency and reduce weir resistance.But taking the lab scale research to market commercialization has been something that has lacked in this field.Thus we aim to jump in bridging the gap present.</b>";
+  }
+
+  function tag32Clicked() {
+      debugger;
+      document.getElementById('tag31').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%'
+      document.getElementById('tag32').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50% ;color:white; background: #E95A44'
+      document.getElementById("tagdesc3").innerHTML = "<b> i) Life increase of current Lead Acid Batteries<br/> ii) Lower Weir Resistance</b>";
+
+  }
+
+
+  function tag31Hover() {
+      document.getElementById('tag31').style.cursor = 'pointer'
+  }
+
+  function tag32Hover() {
+      document.getElementById('tag32').style.cursor = 'pointer'
+  }
+
+
+  function tag11Clicked() {
+      document.getElementById('tag11').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%; color:white; background: #E95A44'
+      document.getElementById('tag12').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50%'
+      document.getElementById("tagdesc").innerHTML = "<b>Graphene has the potential to tap into the future of optoelectronics by making the concept of thin transparent LED displays feasible.This technology has numerous applications from being an integrationin daily consumer lives to being an industrial asset for various sectors.</b>"
+  }
+
+  function tag12Clicked() {
+      document.getElementById('tag11').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%'
+      document.getElementById('tag12').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50% ;color:white; background: #E95A44'
+      document.getElementById("tagdesc").innerHTML = "<b>i) Turning car window shields into display.<br/> ii) Window Shopping becoming real for customers.<br/> iii) Enhancement in current VR technology.</b>"
+
+  }
+
+  function tag11Hover() {
+      document.getElementById('tag11').style.cursor = 'pointer'
+  }
+
+  function tag12Hover() {
+      document.getElementById('tag12').style.cursor = 'pointer'
+  }
+
+  function tag21Clicked() {
+      document.getElementById('tag21').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%; color:white; background: #E95A44'
+      document.getElementById('tag22').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50%'
+      document.getElementById("tagdesc2").innerHTML = "<b>Water is one of the basic amenities for human kind. It is also one of the major causes for illness and widespread diseases.RO and UV technologies have revolutionized the market in terms of efficiency of filtration but have their own drawbacks ranging from large wastage of water to high operating and maintenance costs.We are working on a technology which could remove toxins without the use of electricity, with low maintenance costs and also work in a way such that it is easily customizable based on geography and local conditions of water.</b>";
+  }
+
+  function tag22Clicked() {
+      document.getElementById('tag21').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%'
+      document.getElementById('tag22').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50% ;color:white; background: #E95A44'
+      document.getElementById("tagdesc2").innerHTML = "<b> i) The filtration system will be suitable for rural deployment with lower investment as well as running costs.<br/> ii) Geography specific flexibility in terms of toxins being removed.</b>";
+  }
+
+  function tag21Hover() {
+      document.getElementById('tag21').style.cursor = 'pointer'
+  }
+
+  function tag22Hover() {
+      document.getElementById('tag22').style.cursor = 'pointer'
+  }
+
+  function tag31Clicked() {
+      document.getElementById('tag31').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%; color:white; background: #E95A44'
+      document.getElementById('tag32').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50%'
+      document.getElementById("tagdesc3").innerHTML = "<b>Graphene is lead-acid batteries has always been seen as a potential material to increase the efficiency and reduce weir resistance.But taking the lab scale research to market commercialization has been something that has lacked in this field.Thus we aim to jump in bridging the gap present.</b>";
+  }
+
+  function tag32Clicked() {
+      debugger;
+      document.getElementById('tag31').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 0%'
+      document.getElementById('tag32').style = 'position:absolute; width: 50%; height:30px; position: absolute; left: 50% ;color:white; background: #E95A44'
+      document.getElementById("tagdesc3").innerHTML = "<b> i) Life increase of current Lead Acid Batteries<br/> ii) Lower Weir Resistance</b>";
+
+  }
+
+
+  function tag31Hover() {
+      document.getElementById('tag31').style.cursor = 'pointer'
+  }
+
+  function tag32Hover() {
+      document.getElementById('tag32').style.cursor = 'pointer'
+  }
