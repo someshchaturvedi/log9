@@ -767,6 +767,14 @@ scroll {  0% {
       top:0;
       left:0;
     }
+    .portfolio .label-bg1 {
+      background: #000000;
+      width: 100%;
+      height:100%;
+      position: absolute;
+      top:40px;
+      left:0;
+    }
 
     .portfolio .label-text {
       color:#ffffff;
@@ -959,7 +967,7 @@ height : 200px;
 
 .slider-text {
   height: 100%;
-  padding: 40px 40px 25px 40px;
+  padding: 5px 40px 25px 40px;
   background: #F5F6FA;
   color: #7a8188;
   -webkit-transition: all .5s ease-in-out;
